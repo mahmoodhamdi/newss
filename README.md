@@ -1,10 +1,14 @@
 # news_app_ui_setup
 
-A new Flutter project.
+A new Flutter project with an MIT License.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+
+### License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 A few resources to get you started if this is your first Flutter project:
 
